@@ -456,8 +456,8 @@ export const SITE_CONTENT: Record<Language, SiteContent> = {
       eyebrow: 'ABOUT HY·ME·UP!',
       heading: 'COMPLETE SKINCARE, SIMPLIFIED.',
       whereWeStandStats: [
-        { label: 'PROTECTION', value: 'SPF 50+ PA++++' },
         { label: 'MORNING STEPS', value: '3-in-1' },
+        { label: 'RESTORE', value: 'Rice PDRN' },
         { label: 'BRIGHTENING', value: '1.5% Cybright™' },
         { label: 'HYDRATION', value: '16x Hyaluronate' },
       ],
@@ -774,8 +774,8 @@ export const SITE_CONTENT: Record<Language, SiteContent> = {
       eyebrow: 'TENTANG HY·ME·UP!',
       heading: 'PERAWATAN LENGKAP, JADI LEBIH SIMPEL.',
       whereWeStandStats: [
-        { label: 'PERLINDUNGAN', value: 'SPF 50+ PA++++' },
         { label: 'LANGKAH PAGI', value: '3-in-1' },
+        { label: 'RESTORE', value: 'Rice PDRN' },
         { label: 'PENCERAH', value: '1.5% Cybright™' },
         { label: 'HIDRASI', value: '16x Hyaluronate' },
       ],
